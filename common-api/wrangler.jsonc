@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "groupwork-common-api",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-07-05",
+  "vars": {
+    "PORTAL_URL": "https://groupwork-portal.nwkwbs.workers.dev"
+  }
+}
